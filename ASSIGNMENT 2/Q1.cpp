@@ -41,6 +41,7 @@ int main()
    volume v1;
    volume v2(25);
    volume v3(12,20,30);
+}
 
 do
 {
